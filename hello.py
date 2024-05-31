@@ -1,1 +1,2 @@
-print("hello world")
+#처음
+print("hello world!")
